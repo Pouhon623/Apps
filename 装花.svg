@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 1100" role="img" aria-labelledby="title description">
+  <title id="title">舞台用スタンド花</title>
+  <desc id="description">バラを主役にした左右非対称の花とユーカリの葉、リボンを黒いスタンドに飾った式典向けの装花</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9d682e"/>
+      <stop offset=".24" stop-color="#f6d995"/>
+      <stop offset=".52" stop-color="#b9823c"/>
+      <stop offset=".78" stop-color="#f8dfa2"/>
+      <stop offset="1" stop-color="#9b642d"/>
+    </linearGradient>
+    <linearGradient id="stand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111214"/>
+      <stop offset=".24" stop-color="#424448"/>
+      <stop offset=".52" stop-color="#1b1c1f"/>
+      <stop offset=".78" stop-color="#383a3e"/>
+      <stop offset="1" stop-color="#101113"/>
+    </linearGradient>
+    <linearGradient id="basket" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111214"/>
+      <stop offset=".35" stop-color="#383a3e"/>
+      <stop offset=".65" stop-color="#1b1c1f"/>
+      <stop offset="1" stop-color="#101113"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a5ad9e"/>
+      <stop offset="1" stop-color="#59695b"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <g id="flower">
+      <path d="M0-31C11-42 28-33 26-18 40-9 37 9 22 14 17 31-2 35-13 24-31 27-40 10-27-3-34-18-20-33-6-27-4-29-2-30 0-31Z" fill="currentColor" stroke="#f3e7d3" stroke-opacity=".7" stroke-width="1.6"/>
+      <path d="M-17-13C-10-27 9-27 17-14 25-1 13 15 1 19-13 16-25 1-17-13Z" fill="currentColor" stroke="#f3e7d3" stroke-opacity=".55" stroke-width="1.5" opacity=".82"/>
+      <path d="M-10-8C-5-18 8-16 11-7 15 2 7 11 0 12-9 10-15 0-10-8Z" fill="currentColor" stroke="#f3e7d3" stroke-opacity=".6" stroke-width="1.3"/>
+      <path d="M-5-4C-1-10 7-6 6 0 5 5-1 8-5 4-8 1-8-2-5-4Z" fill="none" stroke="#f3e7d3" stroke-opacity=".8" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g id="leaf-shape">
+      <path d="M0 0C-25-28-21-66 3-86 25-63 25-27 0 0Z" fill="url(#leaf)" stroke="#566555" stroke-width="2"/>
+      <path d="M0-3 3-77" fill="none" stroke="#d0d0b7" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </defs>
+
+  <ellipse cx="450" cy="1014" rx="175" ry="23" fill="#6d5537" opacity=".16" filter="url(#shadow)"/>
+
+  <g fill="none" stroke="#64715e" stroke-width="8" stroke-linecap="round">
+    <path d="M442 510C387 429 315 360 245 272"/>
+    <path d="M456 512C477 407 537 314 624 226"/>
+    <path d="M432 514C378 400 365 301 371 190"/>
+    <path d="M469 515C536 420 605 370 700 317"/>
+    <path d="M451 518C450 386 455 290 476 168"/>
+    <path d="M415 510C324 461 268 422 205 371"/>
+    <path d="M485 510C568 471 639 443 729 402"/>
+  </g>
+
+  <g opacity=".98">
+    <use xlink:href="#leaf-shape" transform="translate(255 292) rotate(-53) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(299 349) rotate(45) scale(.82)"/>
+    <use xlink:href="#leaf-shape" transform="translate(333 398) rotate(-45) scale(.76)"/>
+    <use xlink:href="#leaf-shape" transform="translate(366 455) rotate(45) scale(.72)"/>
+    <use xlink:href="#leaf-shape" transform="translate(616 244) rotate(42) scale(.83)"/>
+    <use xlink:href="#leaf-shape" transform="translate(578 299) rotate(-46) scale(.83)"/>
+    <use xlink:href="#leaf-shape" transform="translate(541 355) rotate(44) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(509 416) rotate(-46) scale(.76)"/>
+    <use xlink:href="#leaf-shape" transform="translate(370 214) rotate(-5) scale(.78)"/>
+    <use xlink:href="#leaf-shape" transform="translate(371 293) rotate(50) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(385 370) rotate(-49) scale(.78)"/>
+    <use xlink:href="#leaf-shape" transform="translate(476 195) rotate(9) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(464 283) rotate(-48) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(462 369) rotate(46) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(213 382) rotate(-57) scale(.77)"/>
+    <use xlink:href="#leaf-shape" transform="translate(274 427) rotate(48) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(335 465) rotate(-48) scale(.72)"/>
+    <use xlink:href="#leaf-shape" transform="translate(710 329) rotate(51) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(653 378) rotate(-49) scale(.8)"/>
+    <use xlink:href="#leaf-shape" transform="translate(586 425) rotate(47) scale(.78)"/>
+    <use xlink:href="#leaf-shape" transform="translate(721 410) rotate(54) scale(.75)"/>
+  </g>
+
+  <g style="color:#bd8f96">
+    <use xlink:href="#flower" transform="translate(260 348) rotate(-12) scale(.95)"/>
+    <use xlink:href="#flower" transform="translate(365 273) rotate(8) scale(.84)"/>
+    <use xlink:href="#flower" transform="translate(548 292) rotate(-8) scale(.96)"/>
+    <use xlink:href="#flower" transform="translate(667 357) rotate(12) scale(.82)"/>
+    <use xlink:href="#flower" transform="translate(390 431) rotate(-9) scale(.76)"/>
+    <use xlink:href="#flower" transform="translate(615 422) rotate(9) scale(.82)"/>
+  </g>
+  <g style="color:#b97868">
+    <use xlink:href="#flower" transform="translate(326 379) rotate(12) scale(.95)"/>
+    <use xlink:href="#flower" transform="translate(478 220) rotate(-6) scale(1.02)"/>
+    <use xlink:href="#flower" transform="translate(583 365) rotate(-10) scale(1.02)"/>
+    <use xlink:href="#flower" transform="translate(451 382) rotate(7) scale(1.12)"/>
+  </g>
+  <g style="color:#d2bd8c">
+    <use xlink:href="#flower" transform="translate(390 183) scale(.84)"/>
+    <use xlink:href="#flower" transform="translate(630 252) scale(.75)"/>
+    <use xlink:href="#flower" transform="translate(301 404) scale(.72)"/>
+    <use xlink:href="#flower" transform="translate(526 457) scale(.78)"/>
+  </g>
+  <g style="color:#773c4c">
+    <use xlink:href="#flower" transform="translate(224 364) scale(.78)"/>
+    <use xlink:href="#flower" transform="translate(704 393) scale(.78)"/>
+    <use xlink:href="#flower" transform="translate(421 316) scale(.77)"/>
+  </g>
+
+  <g fill="#f2ead8" stroke="#d5c6a5" stroke-width="2">
+    <path d="M440 252c-19-27-13-48 5-57 18 13 19 34-5 57Z"/>
+    <path d="M443 249c-33-4-43-23-33-40 23 0 37 15 33 40Z"/>
+    <path d="M446 249c8-32 28-39 43-26-3 22-20 34-43 26Z"/>
+    <path d="M444 253c-3 30-21 42-39 32 1-22 16-36 39-32Z"/>
+    <circle cx="444" cy="249" r="8" fill="#c6a86f"/>
+  </g>
+  <g fill="#f2ead8" stroke="#d5c6a5" stroke-width="2">
+    <path d="M526 328c-16-23-11-40 4-48 16 11 16 29-4 48Z"/>
+    <path d="M529 326c-28-3-37-19-28-34 20 0 32 13 28 34Z"/>
+    <path d="M531 326c7-27 24-33 37-22-3 19-17 29-37 22Z"/>
+    <path d="M529 329c-3 25-18 36-33 27 1-19 14-31 33-27Z"/>
+    <circle cx="529" cy="326" r="7" fill="#c6a86f"/>
+  </g>
+
+  <g fill="#c6a86f">
+    <circle cx="314" cy="260" r="5"/><circle cx="325" cy="246" r="4"/>
+    <circle cx="343" cy="250" r="5"/><circle cx="575" cy="221" r="5"/>
+    <circle cx="590" cy="211" r="4"/><circle cx="603" cy="220" r="5"/>
+    <circle cx="364" cy="487" r="5"/><circle cx="377" cy="476" r="4"/>
+    <circle cx="389" cy="487" r="5"/><circle cx="661" cy="458" r="5"/>
+    <circle cx="675" cy="447" r="4"/><circle cx="688" cy="459" r="5"/>
+  </g>
+
+  <g fill="none" stroke="#64715e" stroke-width="3" stroke-linecap="round">
+    <path d="M253 356C230 331 218 308 218 285"/>
+    <path d="M632 313C662 293 682 271 692 247"/>
+    <path d="M349 248C337 226 335 207 340 187"/>
+  </g>
+  <g fill="#a5ad9e" stroke="#566555" stroke-width="1.5">
+    <ellipse cx="225" cy="306" rx="8" ry="17" transform="rotate(-39 225 306)"/>
+    <ellipse cx="220" cy="289" rx="7" ry="15" transform="rotate(-14 220 289)"/>
+    <ellipse cx="677" cy="267" rx="8" ry="17" transform="rotate(48 677 267)"/>
+    <ellipse cx="689" cy="250" rx="7" ry="15" transform="rotate(25 689 250)"/>
+    <ellipse cx="337" cy="213" rx="8" ry="16" transform="rotate(-26 337 213)"/>
+  </g>
+
+  <path d="M348 493Q450 472 552 493L534 590Q450 615 366 590Z" fill="url(#basket)" stroke="#090a0b" stroke-width="5"/>
+  <path d="M348 497Q450 476 552 497L548 516Q450 496 352 516Z" fill="#292a2d" stroke="#090a0b" stroke-width="4"/>
+  <path d="M370 533Q450 550 532 533M366 559Q450 577 538 559M375 586Q450 601 525 586" fill="none" stroke="#77797d" stroke-width="3" opacity=".8"/>
+  <path d="M395 502 405 594M435 499 439 600M475 499 472 600M515 502 503 594" fill="none" stroke="#929499" stroke-width="3" opacity=".65"/>
+  <path d="M347 497Q450 476 553 497" fill="none" stroke="#77797d" stroke-width="4"/>
+
+  <path d="M433 604H467L476 915H424Z" fill="url(#stand)" stroke="#090a0b" stroke-width="4"/>
+  <path d="M439 614 443 904" fill="none" stroke="#a9aaad" stroke-width="3" opacity=".58"/>
+  <path d="M450 906 333 980M450 906 567 980M450 906V1000" fill="none" stroke="url(#stand)" stroke-width="21" stroke-linecap="round"/>
+  <path d="M450 916 337 980M450 916 563 980" fill="none" stroke="#8e9094" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+  <path d="M326 982Q450 1006 574 982" fill="none" stroke="#090a0b" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="450" cy="906" r="18" fill="url(#stand)" stroke="#090a0b" stroke-width="4"/>
+  <circle cx="450" cy="906" r="6" fill="#8e9094"/>
+  <circle cx="450" cy="610" r="8" fill="#d2bd8c" stroke="#8d7655" stroke-width="3"/>
+
+  <g fill="#c9b58e">
+    <path d="m177 292 5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/>
+    <path d="m728 239 4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/>
+    <circle cx="248" cy="231" r="4"/><circle cx="675" cy="294" r="4"/>
+  </g>
+</svg>
